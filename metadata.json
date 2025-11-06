@@ -1,0 +1,5 @@
+{
+  "name": "Quran Academy Dialer",
+  "description": "A web application for staff at a Quran academy to call students by name without viewing their phone numbers. The app provides a clean, searchable list of students and initiates calls through the device's native dialer.",
+  "requestFramePermissions": []
+}
