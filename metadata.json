@@ -1,0 +1,7 @@
+{
+  "name": "Quran Academy Calling System",
+  "description": "A professional calling management system for Quran Academy to manage students, make calls, track history, and view analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
